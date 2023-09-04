@@ -1,0 +1,15 @@
+D:\Solo Projects\Csharp-learn\MatchGame\MatchGame\bin\Debug\MatchGame.exe.config
+D:\Solo Projects\Csharp-learn\MatchGame\MatchGame\bin\Debug\MatchGame.exe
+D:\Solo Projects\Csharp-learn\MatchGame\MatchGame\bin\Debug\MatchGame.pdb
+D:\Solo Projects\Csharp-learn\MatchGame\MatchGame\obj\Debug\MatchGame.csproj.AssemblyReference.cache
+D:\Solo Projects\Csharp-learn\MatchGame\MatchGame\obj\Debug\MainWindow.g.cs
+D:\Solo Projects\Csharp-learn\MatchGame\MatchGame\obj\Debug\App.g.cs
+D:\Solo Projects\Csharp-learn\MatchGame\MatchGame\obj\Debug\MatchGame_MarkupCompile.cache
+D:\Solo Projects\Csharp-learn\MatchGame\MatchGame\obj\Debug\MatchGame_MarkupCompile.lref
+D:\Solo Projects\Csharp-learn\MatchGame\MatchGame\obj\Debug\MainWindow.baml
+D:\Solo Projects\Csharp-learn\MatchGame\MatchGame\obj\Debug\MatchGame.g.resources
+D:\Solo Projects\Csharp-learn\MatchGame\MatchGame\obj\Debug\MatchGame.Properties.Resources.resources
+D:\Solo Projects\Csharp-learn\MatchGame\MatchGame\obj\Debug\MatchGame.csproj.GenerateResource.cache
+D:\Solo Projects\Csharp-learn\MatchGame\MatchGame\obj\Debug\MatchGame.csproj.CoreCompileInputs.cache
+D:\Solo Projects\Csharp-learn\MatchGame\MatchGame\obj\Debug\MatchGame.exe
+D:\Solo Projects\Csharp-learn\MatchGame\MatchGame\obj\Debug\MatchGame.pdb
