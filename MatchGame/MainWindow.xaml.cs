@@ -60,7 +60,7 @@ namespace MatchGame
             foreach(TextBlock textBlock in mainGrid.Children.OfType<TextBlock>())
             {
                 
-                if (textBlock.Name != "TimeTextBlock") 
+                if (textBlock.Name != "timeTextBlock") 
                 {
                     int index = random.Next(animalEmoji.Count);
                     string nextEmoji = animalEmoji[index];
